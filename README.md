@@ -1,2 +1,2 @@
-# My-WEB-
+# SeaSeGi
 README
